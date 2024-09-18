@@ -35,7 +35,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 # Store global variables per environment
-gem 'dotenv-rails',                   '3.1.2'
+gem 'dotenv-rails',                   '3.1.4'
 
 gem 'bcrypt'
 
